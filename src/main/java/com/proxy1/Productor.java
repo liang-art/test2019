@@ -6,4 +6,5 @@ public class Productor implements IProductor {
     }
     public void save(){}
     public void update(){}
+    public void delete(){}
 }
