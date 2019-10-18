@@ -4,4 +4,5 @@ public class Productor implements IProductor {
     public void product(float money) {
         System.out.println("开始生产"+money);
     }
+    public void save(){}
 }
