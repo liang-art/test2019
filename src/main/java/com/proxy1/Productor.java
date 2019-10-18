@@ -5,6 +5,10 @@ public class Productor implements IProductor {
         System.out.println("开始生产"+money);
     }
     public void save(){}
-    public void delete(){}
+
     public void select(){}
+
+    public void update(){}
+    public void delete(){}
+
 }
